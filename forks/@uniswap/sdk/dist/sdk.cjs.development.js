@@ -25,6 +25,7 @@ var _SOLIDITY_TYPE_MAXIMA;
   ChainId[ChainId["RINKEBY"] = 4] = "RINKEBY";
   ChainId[ChainId["G\xD6RLI"] = 5] = "G\xD6RLI";
   ChainId[ChainId["KOVAN"] = 42] = "KOVAN";
+  ChainId[ChainId["ZKTEST"] = 280] = "ZKTEST";
 })(exports.ChainId || (exports.ChainId = {}));
 
 (function (TradeType) {
